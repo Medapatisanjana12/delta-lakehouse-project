@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity
+1,iPhone 15,Electronics,80000,10
+2,Samsung TV,Electronics,55000,5
+3,Nike Shoes,Fashion,4500,20
+4,Levis Jeans,Fashion,3000,15
+5,Wooden Table,Furniture,12000,8
+6,Office Chair,Furniture,7000,12
+7,Headphones,Electronics,2000,25
+8,T-shirt,Fashion,999,50
+9,Sofa,Furniture,25000,4
+10,Smart Watch,Electronics,15000,18
